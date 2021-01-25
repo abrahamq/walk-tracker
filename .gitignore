@@ -1,6 +1,8 @@
 _python
+_python3.8
 .ipynb_checkpoints
 .vscode
+.env
 *.pyc
 .DS_Store
 *.swp

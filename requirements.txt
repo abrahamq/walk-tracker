@@ -1,2 +1,7 @@
+wheel
+jupyter
 ipykernel
+ipyleaflet
+polyline
 stravaio
+python-dotenv
